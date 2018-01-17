@@ -77,7 +77,7 @@
     "save": "儲存",
     "pdfExported": "PDF 已匯出",
     "tabOverview": {
-      "label": "總攬",
+      "label": "總覽",
       "showZeroBalances": "顯示餘額 0 的地址",
       "newAddress": "取得新地址",
       "unnamedAddress": "未命名地址",
@@ -157,7 +157,7 @@
     "settings": {
       "label": "設定",
       "limit": "交易限制",
-      "items": "項目",
+      "items": "項",
       "language": "語言",
       "explorerUrl": "ZEN Explorer 地址",
       "apiUrl": "API 地址",
@@ -165,7 +165,7 @@
       "save": "儲存"
     },
     "paperWallet": {
-      "label": "紙上錢包",
+      "label": "紙錢包",
       "generateNewWallet": "創建新的錢包",
       "name": "名字（非必填）",
       "addWalletToArizen": "新增此錢包到 Arizen",
